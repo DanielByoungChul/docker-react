@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           {/* Edit <code>src/App.js</code> and save to reload. */}
-          Great job, React works with changes, Awesome! It works with tests!
+          I have chanted to feature branch...
         </p>
         <a
           className="App-link"
